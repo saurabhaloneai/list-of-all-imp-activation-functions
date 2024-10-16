@@ -1,4 +1,4 @@
-# activation functions and Their Derivatives
+# activation functions and their derivatives
 
 1. **sigmoid**
 2. **tanh**
@@ -13,4 +13,4 @@
 11. **softplus**
 12. **mish**
 
-[img](images/oneforall.png)
+![img](images/oneforall.png)
